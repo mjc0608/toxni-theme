@@ -286,6 +286,13 @@ p>img, .mobile {
   display: inline-block;
 }
 
+.homeButton {
+  max-width: 45%;
+  overflow-x: hidden;
+  display: inline-block;
+  float: left;
+}
+
 .prevPost {
   max-width: 45%;
   overflow-x: hidden;
