@@ -128,7 +128,8 @@ p>img, .mobile {
 }
 
 .briefBox .blogTitle {
-  margin: 10px 0;
+  margin-left: 15px;
+  margin-top: 30px;
 }
 
 .briefBox .blogDescription {
@@ -138,7 +139,7 @@ p>img, .mobile {
 
 .navBox {
   width: 240px;
-  margin: 50px 0;
+  margin: 5px;
   display: inline-block;
   vertical-align: top;
 
@@ -167,7 +168,6 @@ p>img, .mobile {
 
 .listBox {
   width: 550px;
-  margin: 50px 0;
   display: inline-block;
 }
 
