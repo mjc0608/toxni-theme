@@ -288,7 +288,6 @@ p>img, .mobile {
 
 .homeButton {
   max-width: 45%;
-  overflow-x: hidden;
   display: inline-block;
   float: left;
 }
